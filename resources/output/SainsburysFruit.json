@@ -1,0 +1,86 @@
+[
+    {
+        "title": "Sainsbury's Apricot Ripe & Ready x5",
+        "size": 41,
+        "unit_price": "3.00",
+        "description": "Apricots"
+    },
+    {
+        "title": "Sainsbury's Avocado Ripe & Ready XL Loose 300g",
+        "size": 42,
+        "unit_price": "1.50",
+        "description": "Avocados"
+    },
+    {
+        "title": "Sainsbury's Avocado, Ripe & Ready x2",
+        "size": 90,
+        "unit_price": "1.80",
+        "description": "Avocados"
+    },
+    {
+        "title": "Sainsbury's Avocados, Ripe & Ready x4",
+        "size": 86,
+        "unit_price": "3.20",
+        "description": "Avocados"
+    },
+    {
+        "title": "Sainsbury's Conference Pears, Ripe & Ready x4 (minimum)",
+        "size": 86,
+        "unit_price": "2.00",
+        "description": "Conference"
+    },
+    {
+        "title": "Sainsbury's Kiwi Fruit, Ripe & Ready x4",
+        "size": 87,
+        "unit_price": "1.50",
+        "description": "Kiwi"
+    },
+    {
+        "title": "Sainsbury's Kiwi Fruit, SO Organic x4",
+        "size": 86,
+        "unit_price": "1.00",
+        "description": "Kiwi"
+    },
+    {
+        "title": "Sainsbury's Mango, Ripe & Ready x2",
+        "size": 86,
+        "unit_price": "2.25",
+        "description": "by Sainsbury's Ripe and Ready Mango"
+    },
+    {
+        "title": "Sainsbury's Nectarines, Ripe & Ready x4",
+        "size": 85,
+        "unit_price": "2.00",
+        "description": "Description\n\nRipe & ready\nGreat to eat now - refrigerate at home\n1 nectarine counts as 1 of your 5 a-day\nSource of vitamin C\n\n\n\nClass 1Film - Plastic - not currently recycled Tray - Paper - widely recycled"
+    },
+    {
+        "title": "Sainsbury's Papaya, Ripe (each)",
+        "size": 86,
+        "unit_price": "1.50",
+        "description": "Papaya"
+    },
+    {
+        "title": "Sainsbury's Peaches Ripe & Ready x4",
+        "size": 86,
+        "unit_price": "2.00",
+        "description": "Peach"
+    },
+    {
+        "title": "Sainsbury's Pears, Ripe & Ready x4 (minimum)",
+        "size": 85,
+        "unit_price": "2.00",
+        "description": "Pear"
+    },
+    {
+        "title": "Sainsbury's Plums Ripe & Ready x5",
+        "size": 86,
+        "unit_price": "2.50",
+        "description": "Plums"
+    },
+    {
+        "title": "Sainsbury's White Flesh Nectarines, Ripe & Ready x4",
+        "size": 86,
+        "unit_price": "2.00",
+        "description": "by Sainsbury's Ripe and Ready White Flesh Nectarines"
+    }
+]
