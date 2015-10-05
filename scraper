@@ -1,0 +1,21 @@
+#!/usr/bin/env php
+
+<?php
+/**
+ *  The scraper cli.
+ *
+ *  Using a complete framework is cumbersome, pulling down symfony components using composer.
+ *  The core is written in a composer package I wrote for this.
+ */
+
+error_reporting(E_ERROR);
+require 'vendor/autoload.php';
+
+use ptolemic\sifter\Core\Config;
+use ptolemic\sifter\Sifter;
+
+$configuration = new Config("./config.json");
+$scraper = new Sifter($configuration);
+
+//Perform the scraping as defined in $configuration file
+$scraper->execute();
