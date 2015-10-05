@@ -1,0 +1,10 @@
+{
+    "jobs"  : {
+        "type": "json",
+        "location": "./resources/jobs/"
+    },
+    "output" : {
+           "type": "json",
+           "location": "./resources/output/"
+    }
+}
